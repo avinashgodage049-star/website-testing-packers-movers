@@ -1,0 +1,42 @@
+# Sheetal Packers & Movers – Manual Testing Project
+
+## Project Overview
+This project covers manual, functional, and UI testing of the Sheetal Packers & Movers website.
+
+Website Tested:
+https://sheetal.net/packers-and-movers-bangalore.php
+
+## Scope of Testing
+- Menu bar functionality
+- Navigation & redirection
+- UI consistency and readability
+- Form validations
+- Broken links and incorrect redirects
+- Smoke testing of key flows
+
+## Types of Testing Performed
+- Manual Testing
+- Functional Testing
+- UI Testing
+- Smoke Testing
+- Usability Testing
+
+## Key Findings
+- Missing page titles and breadcrumbs
+- Poor UI contrast affecting readability
+- Broken and incorrect menu redirects
+- Missing form validations
+- Incorrect menu highlighting
+- Misleading security warnings on valid pages
+
+## Artifacts
+- Detailed defect report with steps to reproduce
+- UI and usability observations
+
+## Tools Used
+- Browser Developer Tools
+- Manual Test Case Design
+- Defect Documentation (MS Word)
+
+## Tester
+Avi (Manual & API Testing Fresher)
